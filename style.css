@@ -1,0 +1,19 @@
+* {
+  background-color: #ccdbdc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  background-color: #9ad1d4;
+  color: #007ea7;
+}
+
+h2 {
+  color: #007ea7;
+}
+
+p,
+li {
+  color: #003249;
+}
